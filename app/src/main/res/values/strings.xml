@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Museic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="suggest_song">Suggest Song</string>
+    <string name="record_data">Record Data</string>
+
+</resources>
